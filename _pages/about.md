@@ -2,16 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 🕹️ Part-time Geek, Full-time Curious. 🤔
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: 
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -19,8 +16,14 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Meet Abhinav, a celestial connoisseur at the intersection of Artificial Intelligence & Machine Learning research with the cosmic wonders of astrophysics. 🌌🤖 With a stellar following on his astrophysics blog [Astromate on Instagram](https://www.instagram.com/astromate/), Abhinav is not just a researcher; he's a cosmic influencer.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Diving into the depths of coding and machine learning, Abhinav's journey is marked by an insatiable curiosity that extends beyond algorithms. Psychology, anthropology, philosophy, astrophysics, movies, and literature form the constellation of his intellectual pursuits. 🌐🧠🎬📚
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+But Abhinav doesn't stop there—he's not just crunching code but also savoring the narratives of movies and literature. From lines of code to lines of prose, his diverse interests paint a canvas that goes beyond the binary. 🎬📚
+
+As an avid learner, Abhinav navigates the realms of technology and the cosmos with a passion that transcends boundaries. His journey is not just about unraveling the mysteries of AI but also about weaving a tapestry of knowledge that spans the multidimensional landscape of human understanding. 🚀🔍
+
+In the vast expanse of his interests, Abhinav is not just a researcher; he's a storyteller, a cosmic curator, and a maestro orchestrating the symphony of AI and astrophysics. With the precision of an AI algorithm and the wonderment of a stargazer, Abhinav continues to explore, inspire, and shape the universe of his intellectual pursuits.
+
+Navigating the complexities of machine learning with the precision of TARS and the quick-wittedness of CASE. 🤖✨
