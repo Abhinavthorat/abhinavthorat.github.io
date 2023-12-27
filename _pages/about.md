@@ -25,5 +25,3 @@ But Abhinav doesn't stop there—he's not just crunching code but also savoring 
 As an avid learner, Abhinav navigates the realms of technology and the cosmos with a passion that transcends boundaries. His journey is not just about unraveling the mysteries of AI but also about weaving a tapestry of knowledge that spans the multidimensional landscape of human understanding. 🚀🔍
 
 In the vast expanse of his interests, Abhinav is not just a researcher; he's a storyteller, a cosmic curator, and a maestro orchestrating the symphony of AI and astrophysics. With the precision of an AI algorithm and the wonderment of a stargazer, Abhinav continues to explore, inspire, and shape the universe of his intellectual pursuits.
-
-Navigating the complexities of machine learning with the precision of TARS and the quick-wittedness of CASE. 🤖✨
