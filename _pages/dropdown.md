@@ -9,5 +9,5 @@ children:
       permalink: /publications/
     - title: divider
     - title: blogs
-      permalink: /blogs/
+      permalink: /blog/
 ---
