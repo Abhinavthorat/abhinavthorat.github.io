@@ -5,7 +5,7 @@ title: CV
 nav: true
 nav_order: 4
 cv_pdf: AbhinavThoratCV.pdf
-description: This is a description of the page. You can modify it in 'pages/_cv.md'. You can also change or remove the top pdf download button.
+description: For a comprehensive overview, my CV offers high-level information; refer to the attached PDF for a more detailed version.
 toc:
   sidebar: left
 ---
